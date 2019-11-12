@@ -1,18 +1,4 @@
-#  File: Blackjack.py
-
-#  Description: Simulated a game of blackjack using OOP - Card, Deck, Player, Dealer, and Blackjack classes. 
-
 #  Student Name: Marissa Green
-
-#  Student UT EID: mdg3554
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 2/23/19
-
-#  Date Last Modified: 2/23/19
 
 import random
 
