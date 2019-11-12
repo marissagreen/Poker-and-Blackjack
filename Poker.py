@@ -1,18 +1,4 @@
-#  File: Poker.py
-
-#  Description: Using objects-oriented programming, simulate the game of poker. Have Card, Deck, and Poker classes. Prints out hands, the types of hand, and who won/tied.
-
 #  Student Name: Marissa Green
-
-#  Student UT EID: mdg3554
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 2/17/19 
-
-#  Date Last Modified: 2/18/19
 
 import random
 
